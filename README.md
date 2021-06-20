@@ -4,3 +4,4 @@
 2. [키패드 누르기](https://github.com/jeonghaejun/programmers_test/blob/master/keypad.py)
 3. [소수 만들기](https://github.com/jeonghaejun/programmers_test/blob/master/prime_number.py)
 4. [완주하지 못한 선수](https://github.com/jeonghaejun/programmers_test/blob/master/participant_completion.py)
+5. [내적](https://github.com/jeonghaejun/programmers_test/blob/master/dot_product.py)
