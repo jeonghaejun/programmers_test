@@ -1,4 +1,3 @@
-y=x[int(k-1)]
-    #     print(y)
-    #     answer.append(y)
-    # return answer
+if len(new_id)>=16:
+        new_id=new_id[0:14]
+    
