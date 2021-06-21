@@ -6,3 +6,5 @@
 4. [완주하지 못한 선수](https://github.com/jeonghaejun/programmers_test/blob/master/participant_completion.py)
 5. [내적](https://github.com/jeonghaejun/programmers_test/blob/master/dot_product.py)
 6. [폰켓몬](https://github.com/jeonghaejun/programmers_test/blob/master/ponketmon.py)
+7. [K번째 수](https://github.com/jeonghaejun/programmers_test/blob/master/k_number.py)
+8. [체육복](https://github.com/jeonghaejun/programmers_test/blob/master/k_number.py)
