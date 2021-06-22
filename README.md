@@ -12,3 +12,5 @@
 10. [음양 더하기](https://github.com/jeonghaejun/programmers_test/blob/master/abs_signs.py)
 11. [모의고사](https://github.com/jeonghaejun/programmers_test/blob/master/exam.py)
 12. [크레인 인형뽑기 게임](https://github.com/jeonghaejun/programmers_test/blob/master/crane.py)
+13. [시저암호](https://github.com/jeonghaejun/programmers_test/blob/master/password.py)
+14. [가장 큰 수](https://github.com/jeonghaejun/programmers_test/blob/master/max_number.py)
