@@ -14,3 +14,5 @@
 12. [크레인 인형뽑기 게임](https://github.com/jeonghaejun/programmers_test/blob/master/crane.py)
 13. [시저암호](https://github.com/jeonghaejun/programmers_test/blob/master/password.py)
 14. [가장 큰 수](https://github.com/jeonghaejun/programmers_test/blob/master/max_number.py)
+15. [실패율](https://github.com/jeonghaejun/programmers_test/blob/master/failure_rate.py)
+16. [약수의 개수와 덧셈](https://github.com/jeonghaejun/programmers_test/blob/master/divisor.py)
