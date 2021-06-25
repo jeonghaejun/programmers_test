@@ -16,3 +16,4 @@
 14. [가장 큰 수](https://github.com/jeonghaejun/programmers_test/blob/master/max_number.py)
 15. [실패율](https://github.com/jeonghaejun/programmers_test/blob/master/failure_rate.py)
 16. [약수의 개수와 덧셈](https://github.com/jeonghaejun/programmers_test/blob/master/divisor.py)
+17. [직사각형 별찍기](https://github.com/jeonghaejun/programmers_test/blob/master/rectangular.py)
