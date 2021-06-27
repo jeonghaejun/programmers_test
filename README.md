@@ -18,3 +18,7 @@
 16. [약수의 개수와 덧셈](https://github.com/jeonghaejun/programmers_test/blob/master/divisor.py)
 17. [직사각형 별찍기](https://github.com/jeonghaejun/programmers_test/blob/master/rectangular.py)
 18. [행렬의 덧셈](https://github.com/jeonghaejun/programmers_test/blob/master/matrix_addition.py)
+19. [핸드폰 번호 가리기](https://github.com/jeonghaejun/programmers_test/blob/master/phone_number.py)
+20. [하샤드 수](https://github.com/jeonghaejun/programmers_test/blob/master/harshad.py)
+21. [콜라츠 추측](https://github.com/jeonghaejun/programmers_test/blob/master/collatz.py)
+22. [최대공약수와 최소공배수](https://github.com/jeonghaejun/programmers_test/blob/master/gcd_lcm.py)
