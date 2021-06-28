@@ -1,1 +1,2 @@
-print(board[move])
+x.sort(reverse=True)
+    # print(x)

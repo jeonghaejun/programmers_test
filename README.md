@@ -23,3 +23,7 @@
 21. [콜라츠 추측](https://github.com/jeonghaejun/programmers_test/blob/master/collatz.py)
 22. [최대공약수와 최소공배수](https://github.com/jeonghaejun/programmers_test/blob/master/gcd_lcm.py)
 23. [제일 작은 수 제거하기](https://github.com/jeonghaejun/programmers_test/blob/master/min_number.py)
+24. [정수 제곱근 판별](https://github.com/jeonghaejun/programmers_test/blob/master/int_sqrt.py)
+25. [자연수 뒤집어 배열로 만들기](https://github.com/jeonghaejun/programmers_test/blob/master/int_reverse.py)
+26. [약수의 합](https://github.com/jeonghaejun/programmers_test/blob/master/divisor_sum.py)
+27. [수박수박수박](https://github.com/jeonghaejun/programmers_test/blob/master/water_melon.py)
