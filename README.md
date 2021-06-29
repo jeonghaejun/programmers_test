@@ -27,3 +27,8 @@
 25. [자연수 뒤집어 배열로 만들기](https://github.com/jeonghaejun/programmers_test/blob/master/int_reverse.py)
 26. [약수의 합](https://github.com/jeonghaejun/programmers_test/blob/master/divisor_sum.py)
 27. [수박수박수박](https://github.com/jeonghaejun/programmers_test/blob/master/water_melon.py)
+28. [두 개 뽑아서 더하기](https://github.com/jeonghaejun/programmers_test/blob/master/two_numbers_sum.py)
+29. [서울에서 김서방 찾기](https://github.com/jeonghaejun/programmers_test/blob/master/f_string.py)
+29. [3진법 뒤집기](https://github.com/jeonghaejun/programmers_test/blob/master/tetra.py)
+30. [가운데 글자 가져오기](https://github.com/jeonghaejun/programmers_test/blob/master/mid_string.py)
+31. [비밀지도](https://github.com/jeonghaejun/programmers_test/blob/master/secret_map.py)
