@@ -32,3 +32,6 @@
 29. [3진법 뒤집기](https://github.com/jeonghaejun/programmers_test/blob/master/tetra.py)
 30. [가운데 글자 가져오기](https://github.com/jeonghaejun/programmers_test/blob/master/mid_string.py)
 31. [비밀지도](https://github.com/jeonghaejun/programmers_test/blob/master/secret_map.py)
+32. [이상한 문자 만들기](https://github.com/jeonghaejun/programmers_test/blob/master/weird_string.py)
+33. [예산](https://github.com/jeonghaejun/programmers_test/blob/master/budget.py)
+34. [다트게임](https://github.com/jeonghaejun/programmers_test/blob/master/dart_game.py)
