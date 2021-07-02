@@ -1,6 +1,5 @@
 import re
 
-
 def solution(dartResult):
     answer = []
     pattern = r'\d+\w\#|\d+\w\*|\d+\w'
@@ -45,7 +44,6 @@ dartResult = "1S*2T*3S"
 print(solution(dartResult))
 
 # 희원님 풀이
-import re
 
 def solution(dartResult):
     dart=re.findall('\d+\D+',dartResult)
@@ -96,9 +94,6 @@ def solution(dartResult):
     return sum(answer)
 
 # 다른사람 풀이
-
-import re
-
 
 def solution(dartResult):
     bonus = {'S' : 1, 'D' : 2, 'T' : 3}
