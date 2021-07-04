@@ -1,5 +1,6 @@
 import re
 
+
 def solution(dartResult):
     answer = []
     pattern = r'\d+\w\#|\d+\w\*|\d+\w'
@@ -22,8 +23,8 @@ def solution(dartResult):
                 answer.append(int(x[:-2])**2*2)
             elif 'T' in x:
                 answer.append(int(x[:-2])**3*2)
-            if index>0:
-                answer[index-1]=answer[index-1]*2
+            if index > 0:
+                answer[index-1] = answer[index-1]*2
 
         elif 'S' in x:
             answer.append(int(x[:-1]))
@@ -37,54 +38,50 @@ def solution(dartResult):
     return sum(answer)
 
 
-dartResult = "1S*2T*3S"
-
-# st='1S'
-# print(st[:-1])
-print(solution(dartResult))
-
 # 희원님 풀이
 
 def solution(dartResult):
-    dart=re.findall('\d+\D+',dartResult)
+    dart = re.findall('\d+\D+', dartResult)
     answer = []
     for i in dart:
-        num=int(re.search('\d+',i).group())
+        num = int(re.search('\d+', i).group())
         if 'S' in i:
-            j=num
+            j = num
         elif 'D' in i:
-            j=num**2
+            j = num**2
         else:
-            j=num**3
+            j = num**3
         if '#' in i:
-            j=-j
+            j = -j
         answer.append(j)
 
         if '*' in i:
-            answer[-1]*=2
+            answer[-1] *= 2
             try:
-                answer[-2]*=2
-            except: pass   
-    
+                answer[-2] *= 2
+            except:
+                pass
+
     return sum(answer)
 
 # 다른사람 풀이
 
+
 def solution(dartResult):
     point = []
     answer = []
-    dartResult = dartResult.replace('10','k')
+    dartResult = dartResult.replace('10', 'k')
     point = ['10' if i == 'k' else i for i in dartResult]
     print(point)
 
     i = -1
     sdt = ['S', 'D', 'T']
     for j in point:
-        if j in sdt :
+        if j in sdt:
             answer[i] = answer[i] ** (sdt.index(j)+1)
         elif j == '*':
             answer[i] = answer[i] * 2
-            if i != 0 :
+            if i != 0:
                 answer[i - 1] = answer[i - 1] * 2
         elif j == '#':
             answer[i] = answer[i] * (-1)
@@ -95,9 +92,10 @@ def solution(dartResult):
 
 # 다른사람 풀이
 
+
 def solution(dartResult):
-    bonus = {'S' : 1, 'D' : 2, 'T' : 3}
-    option = {'' : 1, '*' : 2, '#' : -1}
+    bonus = {'S': 1, 'D': 2, 'T': 3}
+    option = {'': 1, '*': 2, '#': -1}
     p = re.compile('(\d+)([SDT])([*#]?)')
     dart = p.findall(dartResult)
     for i in range(len(dart)):
@@ -107,3 +105,7 @@ def solution(dartResult):
 
     answer = sum(dart)
     return answer
+
+
+dartResult = "1S*2T*3S"
+print(solution(dartResult))
