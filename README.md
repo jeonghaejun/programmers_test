@@ -35,3 +35,4 @@
 32. [이상한 문자 만들기](https://github.com/jeonghaejun/programmers_test/blob/master/weird_string.py)
 33. [예산](https://github.com/jeonghaejun/programmers_test/blob/master/budget.py)
 34. [다트게임](https://github.com/jeonghaejun/programmers_test/blob/master/dart_game.py)
+35. [같은 숫자는 싫어](https://github.com/jeonghaejun/programmers_test/blob/master/not_same_int.py)
