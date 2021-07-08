@@ -36,3 +36,5 @@
 33. [예산](https://github.com/jeonghaejun/programmers_test/blob/master/budget.py)
 34. [다트게임](https://github.com/jeonghaejun/programmers_test/blob/master/dart_game.py)
 35. [같은 숫자는 싫어](https://github.com/jeonghaejun/programmers_test/blob/master/not_same_int.py)
+36. [프린터](https://github.com/jeonghaejun/programmers_test/blob/master/print.py)
+37. [더 맵게](https://github.com/jeonghaejun/programmers_test/blob/master/scoville.py)
