@@ -78,3 +78,7 @@ failure_rate.py)
 37. [더 맵게](https://github.com/jeonghaejun/programmers_test/blob/master/scoville.py)
 
 38. [두 정수 사이의 합](https://github.com/jeonghaejun/programmers_test/blob/master/sum_range_int.py)
+
+39. [기능개발](https://github.com/jeonghaejun/programmers_test/blob/master/function_development.py)
+
+40. [124 나라의 숫자](https://github.com/jeonghaejun/programmers_test/blob/master/124.py)
